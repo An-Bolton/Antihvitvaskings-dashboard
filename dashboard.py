@@ -1570,7 +1570,7 @@ with faner[10]:
                 st.info("For PDF-eksport: `pip install reportlab`.")
 
         with faner[11]:
-            st.subheader("ℹ️ Om oss")
+            st.subheader("Om plattformen")
 
             st.markdown("""
             Velkommen til **Anti-hvitvasking Dashboardet** 👋  
