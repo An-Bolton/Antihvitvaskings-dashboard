@@ -1569,7 +1569,7 @@ with faner[10]:
             else:
                 st.info("For PDF-eksport: `pip install reportlab`.")
 
-        with faner[10]:
+        with faner[11]:
             st.subheader("ℹ️ Om oss")
 
             st.markdown("""
