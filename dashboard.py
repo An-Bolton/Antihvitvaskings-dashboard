@@ -222,9 +222,9 @@ def slack_send(text: str) -> bool:
     except urllib.error.URLError:
         return False
 
-# =============================
+# ============================
 #   STREAMLIT CONFIG
-# =============================
+# ============================
 
 st.set_page_config(layout="wide", page_title="Anti-hvitvasking dashboard")
 st.title("Anti-hvitvasking dashboard")
