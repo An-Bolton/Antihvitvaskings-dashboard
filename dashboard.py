@@ -858,7 +858,8 @@ faner = st.tabs([
     " Kundetiltak",
     " KYC/EDD",
     " Rapporter (MTA/ROS)",
-    " Bank-klar (sjekkliste & gap)"
+    " Bank-klar (sjekkliste & gap)",
+    " Om plattformen"
 ])
 
 # ---------- Tab 0: Alle transaksjoner ----------
@@ -1567,3 +1568,35 @@ with faner[10]:
                     st.download_button("📄 Last ned gap-analyse (PDF)", data=pdf2, file_name="gap_analyse.pdf", mime="application/pdf")
             else:
                 st.info("For PDF-eksport: `pip install reportlab`.")
+
+        with faner[10]:
+            st.subheader("ℹ️ Om oss")
+
+            st.markdown("""
+            Velkommen til **Anti-hvitvasking Dashboardet** 👋  
+
+            Dette systemet er utviklet som et *proof-of-concept* for sanntidsovervåking av:
+            -  Transaksjoner  
+            - ️Sanksjons- og PEP-sjekk  
+            -  KYC/EDD-prosesser  
+            -  Risikorapportering og revisjon  
+
+            ---
+            **Formål:**  
+            Det er for å vise hvordan teknologi kan støtte banker, fintechs og finansmyndigheter i jobben mot hvitvasking og annen ulovlig finansering.
+
+            **Plattformen er bygget med:**  
+            - Python  
+            - Streamlit 
+            - Pandas / NumPy  
+            - Plotly  
+            - SQLite  
+
+            ---
+           Bygget av Andreas Bolton Seielstad
+            
+            ---
+            ** Kontakt:**  
+            For spørsmål eller forslag, ta kontakt via GitHub:  
+            [👉 GitHub-repoet mitt:](https://github.com/An-Bolton/Antihvitvaskings-dashboard)
+            """)
