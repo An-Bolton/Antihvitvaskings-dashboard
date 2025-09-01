@@ -1579,7 +1579,7 @@ with faner[10]:
             -  Transaksjoner  
             - ️Sanksjons- og PEP-sjekk  
             -  KYC/EDD-prosesser  
-            -  Risikorapportering og revisjon  
+            -  Risikorapportering og revisjon 
 
             ---
             **Formål:**  
