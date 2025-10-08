@@ -1573,16 +1573,16 @@ with faner[10]:
             st.subheader("Om plattformen")
 
             st.markdown("""
-            Velkommen til **Anti-hvitvasking Dashboardet** 👋  
+            Velkommen til **Anti-hvitvasking Dashboardet mitt!** 
 
-            Dette systemet er utviklet som et *proof-of-concept* for sanntidsovervåking av:
+            Dette systemet er utviklet som et slags *proof-of-concept* for sanntidsovervåking av:
             -  Transaksjoner  
             - ️Sanksjons- og PEP-sjekk  
             -  KYC/EDD-prosesser  
             -  Risikorapportering og revisjon 
 
             ---
-            **Formål:**  
+            **Formålet med plattformen:**  
             Det er for å vise hvordan teknologi kan støtte banker, fintechs og finansmyndigheter i jobben mot hvitvasking og annen ulovlig finansering.
 
             **Plattformen er bygget med:**  
@@ -1597,6 +1597,6 @@ with faner[10]:
             
             ---
             ** Kontakt:**  
-            For spørsmål eller forslag, ta kontakt via GitHub:  
-            [👉 GitHub-repoet mitt:](https://github.com/An-Bolton/Antihvitvaskings-dashboard)
+            For spørsmål eller forslag, ta kontakt via:  
+            [GitHub-repoet mitt:](https://github.com/An-Bolton/Antihvitvaskings-dashboard)
             """)
