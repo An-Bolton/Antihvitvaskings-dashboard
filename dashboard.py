@@ -1593,10 +1593,11 @@ with faner[10]:
             - SQLite  
 
             ---
-           Bygget av Andreas Bolton Seielstad
+           Plattformen er bygget av Andreas Bolton Seielstad
             
             ---
             ** Kontakt:**  
             For spørsmål eller forslag, ta kontakt via:  
             [GitHub-repoet mitt:](https://github.com/An-Bolton/Antihvitvaskings-dashboard)
             """)
+
