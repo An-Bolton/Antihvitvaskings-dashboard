@@ -1597,7 +1597,7 @@ with faner[10]:
             
             ---
             ** Kontakt:**  
-            For spørsmål eller forslag, ta kontakt via:  
-            [GitHub-repoet mitt](https://github.com/An-Bolton/Antihvitvaskings-dashboard)
+            For spørsmål eller forslag, ta kontakt med meg eller via  
+            [GitHub-repoet mitt:](https://github.com/An-Bolton/Antihvitvaskings-dashboard)
             """)
 
