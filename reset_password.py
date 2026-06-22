@@ -5,7 +5,7 @@ import secrets
 
 DB_PATH = os.environ.get("AML_DB_PATH", "transaksjoner.db")
 USERNAME = "admin"                  # <- endre ved behov
-NEW_PASSWORD = "NySterkPassord123!"  # <- velg nytt
+NEW_PASSWORD = "CHANGE_ME" # <- endre ved behov
 
 def pbkdf2_hash(password: str, salt: str | None = None, iterations: int = 200_000) -> str:
     if salt is None:
