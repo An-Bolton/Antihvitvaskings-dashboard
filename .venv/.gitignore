@@ -1,0 +1,16 @@
+# Databaser
+*.db
+*.db-wal
+*.db-shm
+
+# Miljøfiler
+.env
+.aml_secret
+
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
